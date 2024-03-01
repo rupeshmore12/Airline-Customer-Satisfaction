@@ -106,7 +106,7 @@ Satisfaction (1) : Overall satisfied with the services
 Neutral or Dissatisfaction (0) : Overall unsatisfied with the services
 
 # Importing data and important libraries
-Modules we are going to use : Pandas, Numpy, Plotly, Matplotlib, Seaborn, Jovian, Joblib, XGBoost, Scikit-Learn.
+Modules we are going to use : Pandas, Numpy, Plotly, Matplotlib, Seaborn, XGBoost, Scikit-Learn.
 In this section we are going to import our basic required files and modules which need for Exploratory Data Analysis and further Data Pre-processing.
 
 # Model Building 
